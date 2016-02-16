@@ -1,0 +1,10 @@
+{
+  "name": "etdsolutions/lazyload",
+  "description": "Shim repository for LazyLoad",
+  "authors": [
+    {
+      "name": "Andrea Verlicchi"
+    }
+  ],
+  "license": "MIT"
+}
